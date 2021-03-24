@@ -56,18 +56,15 @@ The picture above illustrates a possible workflow. The” Get Chassis” station
 
 ## Deliverables
 
-```
+
 - an executable jar(s) for a station
 - files that can be used to run/test your application
 - a document which provides instructions on how to run and test your simulation
 - a document which explains your system design and assumptions/design decisions. You are encouraged to use UML, DFD, or other diagram types to help the reader visualize your solution.
-```
 
 ## Marking Criteria
-```
 - functionality ...Does the system actually work? Does it satisfy the requirements?
 - testing...is your testing strategy enough to test the robustness of the system? Solely unit testing will not be sufficient for a program of this scope.
 - system design ...is your solution flexible? Can your assembly line be reconfigured without code changes? Have you applied class design concepts in a way so that the program is easily maintainable and so that required changes can be handled with minimal code changes?
 - does your documentation provide enough detail so that someone can run/test your solution without assistance.
-```
 
