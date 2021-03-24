@@ -42,10 +42,10 @@ Your task is to build a system that models a car assembly line. A car goes throu
 - jobs originate in initial task stations. Their contents are read in from an input file. You are to design a file format that satisfies the program requirements.
 - job status should be logged at each station. It should be possible to query the status of a particular job (ie what stage(s) of assembly has completed thus far). Job processing failures should be logged as well.
 - the system shall provide a JavaFX-based GUI to access data at each station. It should at least support the following actions:
-- view and update inventory levels
-- change input listening port
-- change output socket parameters
-- switch between on and offline states
+  - view and update inventory levels
+  - change input listening port
+  - change output socket parameters
+  - switch between on and offline states
 
 
 ![above case desc](https://user-images.githubusercontent.com/34140955/112237268-b1802080-8c18-11eb-9157-b9975095ce08.png)
@@ -56,15 +56,18 @@ The picture above illustrates a possible workflow. The” Get Chassis” station
 
 ## Deliverables
 
+```
 - an executable jar(s) for a station
 - files that can be used to run/test your application
 - a document which provides instructions on how to run and test your simulation
 - a document which explains your system design and assumptions/design decisions. You are encouraged to use UML, DFD, or other diagram types to help the reader visualize your solution.
+```
 
 ## Marking Criteria
+```
 - functionality ...Does the system actually work? Does it satisfy the requirements?
 - testing...is your testing strategy enough to test the robustness of the system? Solely unit testing will not be sufficient for a program of this scope.
 - system design ...is your solution flexible? Can your assembly line be reconfigured without code changes? Have you applied class design concepts in a way so that the program is easily maintainable and so that required changes can be handled with minimal code changes?
 - does your documentation provide enough detail so that someone can run/test your solution without assistance.
-
+```
 
