@@ -1,0 +1,41 @@
+
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [2], TASK: INSTALL Collision Sensors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [2], TASK: INSTALL Doors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [2], TASK: INSTALL Paint
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Axels
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Brakes
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Gear Box
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Transmission
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Collision Sensors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Doors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Paint
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [2], TASK: INSTALL Transmission
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [2], TASK: INSTALL Collision Sensors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [2], TASK: INSTALL Doors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [2], TASK: INSTALL Paint
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Brakes
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Gear Box
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Transmission
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Collision Sensors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Doors
+_________________________________________________________________
+ERROR TASK FAILED FOR JOB ID: [5], TASK: INSTALL Paint

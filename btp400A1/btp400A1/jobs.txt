@@ -1,0 +1,5 @@
+Job 1, Axels, Brakes, Gear Box, Transmission, Doors, Paint
+Job 2, Axels, Brakes, Gear Box, Transmission, Collision Sensors, Doors, Paint
+Job 3, Axels, Axels, Gear Box, Transmission, Doors, Paint
+Job 4, Axels, Paint
+Job 5, Axels, Brakes, Gear Box, Transmission, Collision Sensors, Doors, Paint

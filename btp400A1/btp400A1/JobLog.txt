@@ -1,0 +1,157 @@
+
+_________________________________________________________________
+JOB ID: [1], DATE: 14-03-2021 20:30:30
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [2], DATE: 14-03-2021 20:30:54
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [5], DATE: 14-03-2021 20:31:23
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [1], DATE: 14-03-2021 20:34:49
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [2], DATE: 14-03-2021 20:35:13
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] FAILED
+TASK: [Doors] FAILED
+TASK: [Paint] FAILED
+_________________________________________________________________
+JOB ID: [5], DATE: 14-03-2021 20:35:41
+TASK: [Axels] FAILED
+TASK: [Brakes] FAILED
+TASK: [Gear Box] FAILED
+TASK: [Transmission] FAILED
+TASK: [Collision Sensors] FAILED
+TASK: [Doors] FAILED
+TASK: [Paint] FAILED
+_________________________________________________________________
+JOB ID: [1], DATE: 15-03-2021 22:42:20
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [2], DATE: 15-03-2021 22:42:44
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [5], DATE: 15-03-2021 22:43:12
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [1], DATE: 15-03-2021 22:48:08
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [2], DATE: 15-03-2021 22:48:32
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [5], DATE: 15-03-2021 22:49:00
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [1], DATE: 16-03-2021 10:13:17
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [2], DATE: 16-03-2021 10:13:42
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [5], DATE: 16-03-2021 10:14:10
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Collision Sensors] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [1], DATE: 16-03-2021 10:24:16
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] COMPLETED
+TASK: [Doors] COMPLETED
+TASK: [Paint] COMPLETED
+_________________________________________________________________
+JOB ID: [2], DATE: 16-03-2021 10:24:41
+TASK: [Axels] COMPLETED
+TASK: [Brakes] COMPLETED
+TASK: [Gear Box] COMPLETED
+TASK: [Transmission] FAILED
+TASK: [Collision Sensors] FAILED
+TASK: [Doors] FAILED
+TASK: [Paint] FAILED
+_________________________________________________________________
+JOB ID: [5], DATE: 16-03-2021 10:25:09
+TASK: [Axels] COMPLETED
+TASK: [Brakes] FAILED
+TASK: [Gear Box] FAILED
+TASK: [Transmission] FAILED
+TASK: [Collision Sensors] FAILED
+TASK: [Doors] FAILED
+TASK: [Paint] FAILED
