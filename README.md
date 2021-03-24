@@ -1,7 +1,6 @@
 # BTP400 Winter 2021: Assignment 1 - (20%)
 
 ```
-Prof. Eden Burton
 School of Software Design and Data Science, Seneca College of Applied Arts and Technology
 Winter 2021
 ```
