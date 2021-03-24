@@ -48,6 +48,8 @@ Your task is to build a system that models a car assembly line. A car goes throu
 - switch between on and offline states
 
 
+![above case desc](https://user-images.githubusercontent.com/34140955/112237268-b1802080-8c18-11eb-9157-b9975095ce08.png)
+
 ## Case Description
 
 The picture above illustrates a possible workflow. The” Get Chassis” station begins the workflow and is an initial station that accepts jobs coming into the system. Jobs flow through the system until they reach the final” Engrave VIN” station. When a job requires the” Install Gear Box” task completed, it can go to either of the stations processing those tasks. The” Install Collision Sensors” task is an optional one, so only jobs which have ordered that feature will be sent to its associated station.
